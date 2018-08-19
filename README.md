@@ -15,7 +15,6 @@ na individualne potrebe projekta.
 U db/csm.sql file-u se nalazi baza podataka koju je potrebno postaviti da bi projekt funkcionirao
 	-DROP DATABASE otkomentirati ukoliko baza već postoji na serveru
 index.php - namjenjen da samo prikazuje podatke, sa gledišta korisnika
-admin.php - namjenjen za unos podataka, potreban login
-default Admin podaci:
-	Username:admin
-	Password:41244124
+admin.php - namjenjen za unos podataka, potreban login: 
+Username:admin
+Password:41244124
